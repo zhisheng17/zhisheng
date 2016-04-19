@@ -76,3 +76,5 @@
 ## 36.[那些不能遗忘的知识点回顾——计算机网络系列（笔试面试高频题）](http://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=502752844&idx=1&sn=292e05bb07225fa869bb3d249dc98443#rd)
 
 ## 37.[0Day技术分析-1-基础知识](http://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=502752871&idx=1&sn=424eda2e0a86d0224ace73cd38d11a6e#rd)
+
+## 38.[0Day技术分析-2-栈溢出原理](http://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=502752912&idx=1&sn=0abdda8da95a3f5198b0cfc4bb0f2cb2#rd)
