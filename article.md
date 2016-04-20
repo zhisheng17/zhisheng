@@ -78,3 +78,5 @@
 ## 37.[0Day技术分析-1-基础知识](http://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=502752871&idx=1&sn=424eda2e0a86d0224ace73cd38d11a6e#rd)
 
 ## 38.[0Day技术分析-2-栈溢出原理](http://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=502752912&idx=1&sn=0abdda8da95a3f5198b0cfc4bb0f2cb2#rd)
+
+## 39.[“看毛片”算法的那些事](http://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=502752917&idx=1&sn=fbacbbc76c8cc565e960904f54415425#rd)
