@@ -80,3 +80,4 @@
 ## 38.[0Day技术分析-2-栈溢出原理](http://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=502752912&idx=1&sn=0abdda8da95a3f5198b0cfc4bb0f2cb2#rd)
 
 ## 39.[“看毛片”算法的那些事](http://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=502752917&idx=1&sn=fbacbbc76c8cc565e960904f54415425#rd)
+## 40.[0Day技术分析-3-shellcode初探](http://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=502752948&idx=1&sn=75249714ab5b7eb6a3a207735cdc7c42#rd)
