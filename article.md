@@ -87,4 +87,6 @@
 
 ## 42.[多线程的单例设计模式](http://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=502752990&idx=1&sn=adf517c05d9dccf5208dc959496cf179#rd)
 
-## 43.[深入浅出单实例Singleton设计模式 ](http://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=502752993&idx=1&sn=f7b0f6cb6def4208848125141a31cd82#rd)
+## 43.[深入浅出单实例Singleton设计模式](http://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=502752993&idx=1&sn=f7b0f6cb6def4208848125141a31cd82#rd)
+
+## 44.[CPU阿甘](http://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=502753006&idx=1&sn=2b4b16d0e3ba74626cf347bfba12f318#rd)
