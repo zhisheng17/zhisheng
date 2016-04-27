@@ -90,4 +90,7 @@
 ## 43.[深入浅出单实例Singleton设计模式](http://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=502752993&idx=1&sn=f7b0f6cb6def4208848125141a31cd82#rd)
 
 ## 44.[CPU阿甘](http://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=502753006&idx=1&sn=2b4b16d0e3ba74626cf347bfba12f318#rd)
+
 ## 45.[C/C++学习----使用C语言代替cmd命令、cmd命令大全](http://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=502753010&idx=1&sn=9b238f282891049c1a8eb634ca10327d#rd)
+
+## 46.[Java设计模式之观察者模式](http://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=502753014&idx=1&sn=e51356be14d7146fa8bc66da6b51d352#rd)
