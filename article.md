@@ -1,4 +1,6 @@
 # “猿blog”微信公众号（yuan_blog）所有文章目录(持续更新)
+## 微信公众号二维码：
+![猿blog](http://open.weixin.qq.com/qr/code/?username=yuan_blog)
 
 ## 1.[少年成名，野路子的奇妙逆袭](http://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=401269550&idx=1&sn=6844d9942839ba37050a6dbec914efbb#rd)
 
