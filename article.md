@@ -96,3 +96,5 @@
 ## 45.[C/C++学习----使用C语言代替cmd命令、cmd命令大全](http://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=502753010&idx=1&sn=9b238f282891049c1a8eb634ca10327d#rd)
 
 ## 46.[Java设计模式之观察者模式](http://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=502753014&idx=1&sn=e51356be14d7146fa8bc66da6b51d352#rd)
+
+## 47.[记阿里巴巴的一次面试](http://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=502753016&idx=1&sn=6ca71ef0dc6d9aba4a087615cc54748f#rd)
