@@ -102,3 +102,5 @@
 ## 48.[向大学说拜拜——大学 > 兴趣 + 时间 + 思考 + 实践](http://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=502753021&idx=1&sn=50f87f910028a467c8f5e812d8c4e360#rd)
 
 ## 49.[聊聊计算机中的编码（Unicode，GBK，ASCII，utf8，utf16，ISO8859-1等）以及乱码问题的解决办法 ](http://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=502753024&idx=1&sn=05673f143d1ba26f7c099ee406d9e6fa#rd)
+
+## 50.[运算优先级、结合性、求值顺序、副作用和顺序点](http://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=502753027&idx=1&sn=0e5289cdbfc40f15851578262ff7471b#rd)
