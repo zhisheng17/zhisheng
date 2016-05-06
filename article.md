@@ -106,3 +106,15 @@
 ## 50.[运算优先级、结合性、求值顺序、副作用和顺序点](http://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=502753027&idx=1&sn=0e5289cdbfc40f15851578262ff7471b#rd)
 
 ## 51.[安装Ubuntun 15.10](http://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=2650236679&idx=1&sn=89e52de959cbbf10fb34fbede62ef31a#rd)
+
+# “设计模式”系列文章
+
+## 52.[从招式与内功谈起——设计模式概述（一）](http://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=502753034&idx=1&sn=4196b2ca243152b61b95f2219c8a6fd6#rd)
+
+## 53.[从招式与内功谈起——设计模式概述（二）](http://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=502753037&idx=1&sn=6129b22c89c861a5dd397850c2aecbd0#rd)
+
+## 54.[从招式与内功谈起——设计模式概述（三）](http://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=502753038&idx=1&sn=3bc7555c984da57d490d14f00a2fe903#rd)
+
+## 55.[面向对象设计原则概述](http://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=502753042&idx=1&sn=9cfadf05aace2d91b4b7fa04ee6e1360#rd)
+
+## 56.[面向对象设计原则之单一职责原则](http://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=502753045&idx=1&sn=385a642ad78de56a7953966c6a8e8995#rd)
