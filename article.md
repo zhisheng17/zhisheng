@@ -118,3 +118,7 @@
 ## 55.[面向对象设计原则概述](http://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=502753042&idx=1&sn=9cfadf05aace2d91b4b7fa04ee6e1360#rd)
 
 ## 56.[面向对象设计原则之单一职责原则](http://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=502753045&idx=1&sn=385a642ad78de56a7953966c6a8e8995#rd)
+
+## 57.[面向对象设计原则之开闭原则](http://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=502753051&idx=1&sn=bfb882ab5e69c6876104c1487cd2ad0c#rd)
+
+## 58.[面向对象设计原则之里氏代换原则](http://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=502753055&idx=1&sn=38776b2a567a49af72b4728d1f588ba3#rd)
