@@ -124,3 +124,6 @@
 ## 58.[面向对象设计原则之里氏代换原则](http://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=502753055&idx=1&sn=38776b2a567a49af72b4728d1f588ba3#rd)
 
 ## 59.[Java常用排序算法/程序员必须掌握的8大排序算法](http://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=502753065&idx=1&sn=5e45a9848120c3b56d2021743f16b71b#rd)
+
+## 60.[Java常用排序算法/程序员必须掌握的8大排序算法（下）](http://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=502753078&idx=1&sn=42136d30ae363414659dc31ea10ceb37#rd)
+
